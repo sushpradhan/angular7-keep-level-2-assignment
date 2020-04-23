@@ -1,0 +1,13 @@
+.login-form-container{
+    width: 80vw;
+    margin: 5vh auto;
+}
+label{
+color: black;
+}
+.loginform{
+    background-color: cadetblue;
+width: 60vw;
+  display: flex;
+  flex-direction: column;
+}
